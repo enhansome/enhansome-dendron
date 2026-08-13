@@ -1,0 +1,492 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TLDR",
+          "description": "A Dendron vault of the tldr-pages project: a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages (Upstream Source | Dendron Vault Source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-13T16:12:48Z",
+            "owner": "tldr-pages",
+            "repo": "tldr",
+            "stars": 63398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dendron Documentation",
+          "description": "Official user documentation for Dendron (Source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-26T03:30:17Z",
+            "owner": "dendronhq",
+            "repo": "dendron-site",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dendron Templates",
+          "description": "Note templates for Dendron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-26T14:03:30Z",
+            "owner": "dendronhq",
+            "repo": "templates",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dendron Schema Library",
+          "description": "This workspace contains commonly used schemas for Dendron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-13T19:16:54Z",
+            "owner": "dendronhq",
+            "repo": "schema-library",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Open PKM Catalogue",
+          "description": "This site is meant to be a reference of all things PKM (Personal knowledge management) (Source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Witcher Script",
+            "last_commit": "2022-03-18T01:40:09Z",
+            "owner": "dendronhq",
+            "repo": "catalogue-open-pkm",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dendron Developer Documentation",
+          "description": "Official developer, code-contributor documentation for Dendron (Source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-17T18:31:02Z",
+            "owner": "dendronhq",
+            "repo": "dendron-docs",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Open AWS Catalogue",
+          "description": "This site is meant to be a reference of all things AWS. It is compiled from the highest quality open sources of information available about AWS (Source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-03-26T01:23:08Z",
+            "owner": "dendronhq",
+            "repo": "seeds.aws",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Dendron Official Public Vaults"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bassman/dendron-schemas",
+          "description": "Collection of Dendron schema and template files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-09T11:41:52Z",
+            "owner": "Bassmann",
+            "repo": "dendron-schemas",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IntegerMan/LearningLog",
+          "description": "A collection of highlights of things Matt Eland learned from reading, conferences, and courses as well as lists of resources to investigate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-07T06:33:03Z",
+            "owner": "IntegerMan",
+            "repo": "LearningLog",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Community Public Vaults"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community VS Code / VSCodium Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A tool for converting BibTeX citations to notes, to use them in Dendron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-26T20:45:03Z",
+            "owner": "mivanit",
+            "repo": "dendron-citations",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Run specialized pandoc filters for making Dendron links work properly, a script for adding bibliography information (or other data) to all markdown files in a vault, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-10T08:17:08Z",
+            "owner": "mivanit",
+            "repo": "dendron-pandoc",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Export and Publish Draw.io Diagrams",
+          "description": "Use this tool to embed draw.io / diagrams.net diagrams in your published Dendron notes and documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-06-17T22:38:29Z",
+            "owner": "LukeCarrier",
+            "repo": "dendron-publish-drawio",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A small command line tool for getting details of a paper from local Zotero database (regardless if Zotero is running in the background).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-10-21T14:45:07Z",
+            "owner": "Maarrk",
+            "repo": "gibcite",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Dendron Enhancers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Yarle",
+          "description": "Yarle is the ultimate converter of Evernote notes to Markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T19:44:02Z",
+            "owner": "akosbalasko",
+            "repo": "yarle",
+            "stars": 1791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneNote / Office 2016 Markdown Exporter",
+          "description": "OneNote Md Exporter is a console application running on Windows that exports your OneNote 2016 notebooks in different markdown formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-15T21:16:40Z",
+            "owner": "alxnbl",
+            "repo": "onenote-md-exporter",
+            "stars": 1615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Keep Converter",
+          "description": "Convert your Google Keep notes into a standard markdown + YAML header format.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-11-28T23:52:06Z",
+            "owner": "vHanda",
+            "repo": "google-keep-exporter",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneNote / Office 365 HTML Exporter",
+          "description": "This project exports your OneNote notes from Microsoft Office 365 (O365) to a zip file containing HTML files or a Evernote ENEX export file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-05T12:28:34Z",
+            "owner": "sspeiser",
+            "repo": "onenote-export",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Helper script to copy the correct dates from Joplin files into Dendron when migrating.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-18T14:06:42Z",
+            "owner": "chmac",
+            "repo": "joplin2dendron",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Migration tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Browser Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Book of Secret Knowledge",
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-19T14:00:38Z",
+            "owner": "trimstray",
+            "repo": "the-book-of-secret-knowledge",
+            "stars": 238169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Node.js",
+          "description": "Delightful Node.js packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T08:24:10Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-nodejs",
+            "stars": 66510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Cheat Sheet",
+          "description": "A collection of cool hidden and not so hidden features of Git and GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-15T20:15:56Z",
+            "owner": "tiimgreen",
+            "repo": "github-cheat-sheet",
+            "stars": 58491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Shell",
+          "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Modern Unix",
+              "description": "A collection of modern/faster/saner alternatives to common unix commands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-09-10T19:48:56Z",
+                "owner": "ibraheemdev",
+                "repo": "modern-unix",
+                "stars": 33012
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:40:51Z",
+            "owner": "alebcay",
+            "repo": "awesome-shell",
+            "stars": 37436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome VS Code",
+          "description": "A curated list of delightful Visual Studio Code packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-21T09:36:55Z",
+            "owner": "viatsko",
+            "repo": "awesome-vscode",
+            "stars": 28956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome GitHub Actions",
+          "description": "A curated list of awesome things related to GitHub Actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-01T20:32:39Z",
+            "owner": "sdras",
+            "repo": "awesome-actions",
+            "stars": 28118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Electron",
+          "description": "Useful resources for creating apps with Electron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T11:29:47Z",
+            "owner": "sindresorhus",
+            "repo": "awesome-electron",
+            "stars": 27253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Structured Text Tools",
+          "description": "The following is a list of text-based file formats and command line tools for manipulating each.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T19:53:32Z",
+            "owner": "dbohdan",
+            "repo": "structured-text-tools",
+            "stars": 7141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome TypeScript",
+          "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-11T04:21:43Z",
+            "owner": "dzharii",
+            "repo": "awesome-typescript",
+            "stars": 5117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Gardeners",
+          "description": "This collection of apps, tools and articles is here to help you learn more about digital gardening.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-22T02:48:25Z",
+            "owner": "MaggieAppleton",
+            "repo": "digital-gardeners",
+            "stars": 4778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome git",
+          "description": "A curated list of amazingly awesome Git tools, resources and shiny things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T07:00:27Z",
+            "owner": "dictcp",
+            "repo": "awesome-git",
+            "stars": 2924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Second Brain",
+          "description": "A curated list of awesome Public Zettelkastens / Second Brains / Digital Gardens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T08:41:06Z",
+            "owner": "KasperZutterman",
+            "repo": "Second-Brain",
+            "stars": 1827
+          }
+        }
+      ],
+      "title": "Other awesome lists of interest"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visit and follow"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:01:13.726Z",
+    "original_repository": "dendronhq/awesome-dendron",
+    "original_repository_sha": "3bea961838ed3f5913504a75eb6c42f82bbb34b1",
+    "enhanced_repository": "enhansome/enhansome-dendron",
+    "enhanced_repository_description": null,
+    "title": "Awesome Dendron with stars"
+  }
+}
