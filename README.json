@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Markdown",
-            "last_commit": "2026-08-15T16:24:54Z",
+            "last_commit": "2026-08-16T15:08:52Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63406
+            "stars": 63414
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 238513
+            "stars": 238682
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66529
+            "stars": 66531
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58519
+            "stars": 58539
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37455
+            "stars": 37450
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28962
+            "stars": 28953
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28128
+            "stars": 28130
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-05-03T11:29:47Z",
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27254
+            "stars": 27253
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4783
+            "stars": 4782
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1828
+            "stars": 1829
           }
         }
       ],
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:27:44.437Z",
+    "last_updated": "2026-08-16T17:26:26.731Z",
     "original_repository": "dendronhq/awesome-dendron",
     "original_repository_sha": "3bea961838ed3f5913504a75eb6c42f82bbb34b1",
     "enhanced_repository": "enhansome/enhansome-dendron",
