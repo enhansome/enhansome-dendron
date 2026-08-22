@@ -62,7 +62,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Official public vaults by Dendron. Feel free to use and contribute to them!
 
-* [TLDR](https://tldr.dendron.so/) - A Dendron vault of the [tldr-pages project](https://tldr.sh/): a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages ([Upstream Source](https://github.com/tldr-pages/tldr) ⭐ 63,447 | 🐛 304 | 🌐 Markdown | 📅 2026-08-21 | [Dendron Vault Source](https://github.com/kevinslin/seed-tldr) ⭐ 6 | 🐛 2 | 🌐 CoffeeScript | 📅 2024-12-19).
+* [TLDR](https://tldr.dendron.so/) - A Dendron vault of the [tldr-pages project](https://tldr.sh/): a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages ([Upstream Source](https://github.com/tldr-pages/tldr) ⭐ 63,456 | 🐛 298 | 🌐 Markdown | 📅 2026-08-22 | [Dendron Vault Source](https://github.com/kevinslin/seed-tldr) ⭐ 6 | 🐛 2 | 🌐 CoffeeScript | 📅 2024-12-19).
 * [Dendron Documentation](https://wiki.dendron.so/) - Official user documentation for Dendron ([Source](https://github.com/dendronhq/dendron-site) ⭐ 132 | 🐛 35 | 🌐 JavaScript | 📅 2024-05-26).
 * [Dendron Templates](https://github.com/dendronhq/templates/) ⭐ 37 | 🐛 2 | 📅 2022-05-26 - Note templates for Dendron.
 * [Dendron Schema Library](https://github.com/dendronhq/schema-library) ⭐ 20 | 🐛 1 | 📅 2022-06-13 - This workspace contains commonly used schemas for Dendron.
@@ -200,7 +200,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 * [Roam-highlighter](https://chrome.google.com/webstore/detail/roam-highlighter/mcoimieglmhdjdoplhpcmifgplkbfibp) - This extension offers an easy way to highlight text on a web page and import it to note-taking apps like Dendron, Roam Research, Obsidian, Logseq or Notion in the format that best suits your workflow. Open Source! Works on: `Chrome/Chromium` / `Firefox`.
 * [Roam Highlighter (alternative to other `Roam-highlighter`)](https://chrome.google.com/webstore/detail/roam-highlighter/hponfflfgcjikmehlcdcnpapicnljkkc) - This extension offers an easy way to highlight text on a web page and import it to note-taking apps like Dendron, Roam Research, Obsidian, Logseq or Notion in the format that best suits your workflow. This one is NOT open source. Works on: `Chrome/Chromium`.
-* [MarkDownload - Markdown Web Clipper](https://github.com/deathau/markdownload) ⭐ 4,002 | 🐛 216 | 🌐 JavaScript | 📅 2025-06-11 - This extension works like a web clipper, but it downloads articles in markdown format. Works on: `Chrome/Chromium` / `Firefox` / `Edge` / `Safari`.
+* [MarkDownload - Markdown Web Clipper](https://github.com/deathau/markdownload) ⭐ 4,001 | 🐛 216 | 🌐 JavaScript | 📅 2025-06-11 - This extension works like a web clipper, but it downloads articles in markdown format. Works on: `Chrome/Chromium` / `Firefox` / `Edge` / `Safari`.
 * [Web Clipper](https://chrome.google.com/webstore/detail/web-clipper/mhfbofiokmppgdliakminbgdgcmbhbac) - Another markdown-format web clipper. Universal open source web clipper for Notion, OneNote, Joplin, Yuque,Bear, GitHub and more notes.
 * [Convert a Website Table to Markdown](https://tabletomarkdown.com/convert-website-table-to-markdown/) - A website that helps you convert HTML tables from websites into Markdown formatted pipe tables.
 
@@ -208,19 +208,19 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Awesome lists and other collections of topics related to the Dendron stack, or otherwise of interest to dendronites. These may also be candidates for pulling into a future `awesome-list` Dendron vault.
 
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,607 | 🐛 166 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,583 | 🐛 26 | 📅 2026-05-03 - Delightful Node.js packages and resources.
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,648 | 🐛 48 | 📅 2024-04-15 - A collection of cool hidden and not so hidden features of Git and GitHub.
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,475 | 🐛 183 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-  * [Modern Unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,017 | 🐛 69 | 📅 2024-09-10 - A collection of modern/faster/saner alternatives to common unix commands.
-* [Awesome VS Code](https://github.com/viatsko/awesome-vscode) ⭐ 28,965 | 🐛 49 | 🌐 JavaScript | 📅 2026-06-21 - A curated list of delightful Visual Studio Code packages and resources.
-* [Awesome GitHub Actions](https://github.com/sdras/awesome-actions) ⭐ 28,148 | 🐛 260 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 239,828 | 🐛 167 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,590 | 🐛 26 | 📅 2026-05-03 - Delightful Node.js packages and resources.
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,665 | 🐛 48 | 📅 2024-04-15 - A collection of cool hidden and not so hidden features of Git and GitHub.
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,479 | 🐛 183 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+  * [Modern Unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,018 | 🐛 69 | 📅 2024-09-10 - A collection of modern/faster/saner alternatives to common unix commands.
+* [Awesome VS Code](https://github.com/viatsko/awesome-vscode) ⭐ 28,964 | 🐛 50 | 🌐 JavaScript | 📅 2026-06-21 - A curated list of delightful Visual Studio Code packages and resources.
+* [Awesome GitHub Actions](https://github.com/sdras/awesome-actions) ⭐ 28,152 | 🐛 262 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
 * [Awesome Electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,260 | 🐛 7 | 📅 2026-05-03 - Useful resources for creating apps with Electron.
 * [Structured Text Tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,144 | 🐛 5 | 📅 2026-08-12 - The following is a list of text-based file formats and command line tools for manipulating each.
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) ⚠️ Archived - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript.
-* [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,787 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-22 - This collection of apps, tools and articles is here to help you learn more about digital gardening.
-* [Awesome git](https://github.com/dictcp/awesome-git) ⭐ 2,931 | 🐛 67 | 📅 2026-07-07 - A curated list of amazingly awesome Git tools, resources and shiny things.
-* [Second Brain](https://github.com/KasperZutterman/Second-Brain) ⭐ 1,832 | 🐛 1 | 📅 2026-06-30 - A curated list of awesome Public Zettelkastens / Second Brains / Digital Gardens.
+* [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,789 | 🐛 29 | 🌐 JavaScript | 📅 2024-06-22 - This collection of apps, tools and articles is here to help you learn more about digital gardening.
+* [Awesome git](https://github.com/dictcp/awesome-git) ⭐ 2,931 | 🐛 68 | 📅 2026-07-07 - A curated list of amazingly awesome Git tools, resources and shiny things.
+* [Second Brain](https://github.com/KasperZutterman/Second-Brain) ⭐ 1,833 | 🐛 1 | 📅 2026-06-30 - A curated list of awesome Public Zettelkastens / Second Brains / Digital Gardens.
 
 ## Read
 
@@ -257,4 +257,4 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
