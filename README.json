@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-23T14:11:51Z",
+            "last_commit": "2026-08-24T13:43:39Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63458
+            "stars": 63468
           }
         },
         {
@@ -148,11 +148,60 @@
       "title": "Community Public Vaults"
     },
     {
+      "description": "Official extensions by Dendron.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dendron Snippet Maker",
+          "description": "Easily create markdown snippets using this fork of Easy Snippet Maker (supports Dendron-specific features).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80656098,
+            "language": "JavaScript",
+            "last_commit": "2020-09-09T12:05:38Z",
+            "owner": "tariky",
+            "repo": "easy-snippet-maker",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Dendron Official VS Code / VSCodium Extensions"
+    },
+    {
+      "description": "Community extensions from the marketplace can potentially have conflicts (settings, shortcuts, etc.) with the official Dendron extensions, leading to unexpected behavior.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Path AutoComplete",
+              "description": "Path autocomplete for Visual Studio Code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67343900,
+                "language": "TypeScript",
+                "last_commit": "2026-03-02T09:01:03Z",
+                "owner": "mihai-vlc",
+                "repo": "path-autocomplete",
+                "stars": 167
+              }
+            }
+          ],
+          "description": "Extensions related to workflows and navigation.",
+          "node_type": "group",
+          "title": "Git"
+        }
+      ],
+      "title": "Community VS Code / VSCodium Extensions"
+    },
+    {
       "description": "Scripts, tools, and repos dedicated to leveling up your Dendron powers.",
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "dendron-citations",
           "description": "A tool for converting BibTeX citations to notes, to use them in Dendron.",
           "children": [],
           "repo_info": {
@@ -167,7 +216,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "dendron-pandoc",
           "description": "Run specialized pandoc filters for making Dendron links work properly, a script for adding bibliography information (or other data) to all markdown files in a vault, and more.",
           "children": [],
           "repo_info": {
@@ -197,7 +246,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "gibcite",
           "description": "A small command line tool for getting details of a paper from local Zotero database (regardless if Zotero is running in the background).",
           "children": [],
           "repo_info": {
@@ -274,7 +323,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "joplin2dendron",
               "description": "Helper script to copy the correct dates from Joplin files into Dendron when migrating.",
               "children": [],
               "repo_info": {
@@ -310,7 +359,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 239981
+            "stars": 240102
           }
         },
         {
@@ -325,7 +374,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66603
+            "stars": 66610
           }
         },
         {
@@ -340,7 +389,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58679
+            "stars": 58695
           }
         },
         {
@@ -371,7 +420,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37489
+            "stars": 37496
           }
         },
         {
@@ -386,7 +435,7 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28971
+            "stars": 28974
           }
         },
         {
@@ -401,7 +450,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28159
+            "stars": 28162
           }
         },
         {
@@ -416,7 +465,7 @@
             "last_commit": "2026-05-03T11:29:47Z",
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27263
+            "stars": 27264
           }
         },
         {
@@ -461,7 +510,7 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4789
+            "stars": 4790
           }
         },
         {
@@ -491,7 +540,7 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1833
+            "stars": 1834
           }
         }
       ],
@@ -499,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:27:54.749Z",
+    "last_updated": "2026-08-24T14:29:09.569Z",
     "original_repository": "dendronhq/awesome-dendron",
     "original_repository_id": 452872361,
     "original_repository_sha": "3bea961838ed3f5913504a75eb6c42f82bbb34b1",
