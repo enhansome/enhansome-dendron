@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T13:43:39Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63468
+            "stars": 63469
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240102
+            "stars": 240124
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58695
+            "stars": 58696
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-07-07T07:00:27Z",
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2933
+            "stars": 2934
           }
         },
         {
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:09.569Z",
+    "last_updated": "2026-08-24T17:37:35.469Z",
     "original_repository": "dendronhq/awesome-dendron",
     "original_repository_id": 452872361,
     "original_repository_sha": "3bea961838ed3f5913504a75eb6c42f82bbb34b1",
