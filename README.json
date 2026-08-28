@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-27T05:47:14Z",
+            "last_commit": "2026-08-28T00:55:28Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63497
+            "stars": 63500
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240601
+            "stars": 240678
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66625
+            "stars": 66635
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58731
+            "stars": 58745
           }
         },
         {
@@ -409,7 +409,7 @@
                 "last_commit": "2024-09-10T19:48:56Z",
                 "owner": "ibraheemdev",
                 "repo": "modern-unix",
-                "stars": 33022
+                "stars": 33024
               }
             }
           ],
@@ -420,7 +420,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37514
+            "stars": 37518
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28972
+            "stars": 28977
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28163
+            "stars": 28167
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-05-03T11:29:47Z",
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27264
+            "stars": 27265
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-07-07T07:00:27Z",
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2935
+            "stars": 2936
           }
         },
         {
@@ -548,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:15.988Z",
+    "last_updated": "2026-08-28T01:24:53.973Z",
     "original_repository_info": {
       "archived": false,
       "id": 452872361,
