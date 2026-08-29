@@ -12,11 +12,12 @@
             "archived": false,
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-28T00:55:28Z",
+            "last_commit": "2026-08-28T15:21:01Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63500
-          }
+            "stars": 63513
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "dendronhq",
             "repo": "dendron-site",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dendronhq",
             "repo": "templates",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "dendronhq",
             "repo": "schema-library",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "dendronhq",
             "repo": "catalogue-open-pkm",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "dendronhq",
             "repo": "dendron-docs",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dendronhq",
             "repo": "seeds.aws",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         }
       ],
       "title": "Dendron Official Public Vaults"
@@ -127,7 +134,8 @@
             "owner": "Bassmann",
             "repo": "dendron-schemas",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "IntegerMan",
             "repo": "LearningLog",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         }
       ],
       "title": "Community Public Vaults"
@@ -163,7 +172,8 @@
             "owner": "tariky",
             "repo": "easy-snippet-maker",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         }
       ],
       "title": "Dendron Official VS Code / VSCodium Extensions"
@@ -186,7 +196,8 @@
                 "owner": "mihai-vlc",
                 "repo": "path-autocomplete",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-29T00:56:29.325Z"
             }
           ],
           "description": "Extensions related to workflows and navigation.",
@@ -212,7 +223,8 @@
             "owner": "mivanit",
             "repo": "dendron-citations",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -227,7 +239,8 @@
             "owner": "mivanit",
             "repo": "dendron-pandoc",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -242,7 +255,8 @@
             "owner": "LukeCarrier",
             "repo": "dendron-publish-drawio",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -257,7 +271,8 @@
             "owner": "Maarrk",
             "repo": "gibcite",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "children": [
@@ -274,7 +289,8 @@
                 "owner": "akosbalasko",
                 "repo": "yarle",
                 "stars": 1796
-              }
+              },
+              "first_seen": "2026-08-29T00:56:29.325Z"
             },
             {
               "node_type": "item",
@@ -288,8 +304,9 @@
                 "last_commit": "2025-12-15T21:16:40Z",
                 "owner": "alxnbl",
                 "repo": "onenote-md-exporter",
-                "stars": 1621
-              }
+                "stars": 1622
+              },
+              "first_seen": "2026-08-29T00:56:29.325Z"
             },
             {
               "node_type": "item",
@@ -303,8 +320,9 @@
                 "last_commit": "2024-11-28T23:52:06Z",
                 "owner": "vHanda",
                 "repo": "google-keep-exporter",
-                "stars": 314
-              }
+                "stars": 315
+              },
+              "first_seen": "2026-08-29T00:56:29.325Z"
             },
             {
               "node_type": "item",
@@ -319,7 +337,8 @@
                 "owner": "sspeiser",
                 "repo": "onenote-export",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:56:29.325Z"
             },
             {
               "node_type": "item",
@@ -334,7 +353,8 @@
                 "owner": "chmac",
                 "repo": "joplin2dendron",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:56:29.325Z"
             }
           ],
           "description": "Scripts, tools, and repos dedicated to migrating content from other platforms.",
@@ -359,8 +379,9 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240678
-          }
+            "stars": 240897
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -374,8 +395,9 @@
             "last_commit": "2026-05-03T08:24:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66635
-          }
+            "stars": 66640
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -389,8 +411,9 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58745
-          }
+            "stars": 58769
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -409,8 +432,9 @@
                 "last_commit": "2024-09-10T19:48:56Z",
                 "owner": "ibraheemdev",
                 "repo": "modern-unix",
-                "stars": 33024
-              }
+                "stars": 33021
+              },
+              "first_seen": "2026-08-29T00:56:29.325Z"
             }
           ],
           "repo_info": {
@@ -420,8 +444,9 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37518
-          }
+            "stars": 37524
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -435,8 +460,9 @@
             "last_commit": "2026-06-21T09:36:55Z",
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28977
-          }
+            "stars": 28983
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -450,8 +476,9 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28167
-          }
+            "stars": 28169
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -465,8 +492,9 @@
             "last_commit": "2026-05-03T11:29:47Z",
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27265
-          }
+            "stars": 27266
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -481,7 +509,8 @@
             "owner": "dbohdan",
             "repo": "structured-text-tools",
             "stars": 7145
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -496,7 +525,8 @@
             "owner": "dzharii",
             "repo": "awesome-typescript",
             "stars": 5118
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -510,8 +540,9 @@
             "last_commit": "2024-06-22T02:48:25Z",
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4789
-          }
+            "stars": 4788
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -526,7 +557,8 @@
             "owner": "dictcp",
             "repo": "awesome-git",
             "stars": 2936
-          }
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         },
         {
           "node_type": "item",
@@ -540,15 +572,16 @@
             "last_commit": "2026-06-30T08:41:06Z",
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1835
-          }
+            "stars": 1834
+          },
+          "first_seen": "2026-08-29T00:56:29.325Z"
         }
       ],
       "title": "Other awesome lists of interest"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:24:53.973Z",
+    "last_updated": "2026-08-29T00:56:29.325Z",
     "original_repository_info": {
       "archived": false,
       "id": 452872361,
