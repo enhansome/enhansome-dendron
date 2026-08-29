@@ -62,7 +62,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Official public vaults by Dendron. Feel free to use and contribute to them!
 
-* [TLDR](https://tldr.dendron.so/) - A Dendron vault of the [tldr-pages project](https://tldr.sh/): a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages ([Upstream Source](https://github.com/tldr-pages/tldr) ⭐ 63,513 | 🐛 300 | 🌐 Markdown | 📅 2026-08-28 | [Dendron Vault Source](https://github.com/kevinslin/seed-tldr) ⭐ 6 | 🐛 2 | 🌐 CoffeeScript | 📅 2024-12-19).
+* [TLDR](https://tldr.dendron.so/) - A Dendron vault of the [tldr-pages project](https://tldr.sh/): a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages ([Upstream Source](https://github.com/tldr-pages/tldr) ⭐ 63,515 | 🐛 301 | 🌐 Markdown | 📅 2026-08-29 | [Dendron Vault Source](https://github.com/kevinslin/seed-tldr) ⭐ 6 | 🐛 2 | 🌐 CoffeeScript | 📅 2024-12-19).
 * [Dendron Documentation](https://wiki.dendron.so/) - Official user documentation for Dendron ([Source](https://github.com/dendronhq/dendron-site) ⭐ 132 | 🐛 35 | 🌐 JavaScript | 📅 2024-05-26).
 * [Dendron Templates](https://github.com/dendronhq/templates/) ⭐ 37 | 🐛 2 | 📅 2022-05-26 - Note templates for Dendron.
 * [Dendron Schema Library](https://github.com/dendronhq/schema-library) ⭐ 20 | 🐛 1 | 📅 2022-06-13 - This workspace contains commonly used schemas for Dendron.
@@ -208,12 +208,12 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Awesome lists and other collections of topics related to the Dendron stack, or otherwise of interest to dendronites. These may also be candidates for pulling into a future `awesome-list` Dendron vault.
 
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,897 | 🐛 170 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 240,939 | 🐛 170 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 * [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 66,640 | 🐛 26 | 📅 2026-05-03 - Delightful Node.js packages and resources.
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,769 | 🐛 48 | 📅 2024-04-15 - A collection of cool hidden and not so hidden features of Git and GitHub.
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,524 | 🐛 185 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,774 | 🐛 48 | 📅 2024-04-15 - A collection of cool hidden and not so hidden features of Git and GitHub.
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,526 | 🐛 185 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
   * [Modern Unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,021 | 🐛 69 | 📅 2024-09-10 - A collection of modern/faster/saner alternatives to common unix commands.
-* [Awesome VS Code](https://github.com/viatsko/awesome-vscode) ⭐ 28,983 | 🐛 54 | 🌐 JavaScript | 📅 2026-06-21 - A curated list of delightful Visual Studio Code packages and resources.
+* [Awesome VS Code](https://github.com/viatsko/awesome-vscode) ⭐ 28,982 | 🐛 54 | 🌐 JavaScript | 📅 2026-06-21 - A curated list of delightful Visual Studio Code packages and resources.
 * [Awesome GitHub Actions](https://github.com/sdras/awesome-actions) ⭐ 28,169 | 🐛 278 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
 * [Awesome Electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,266 | 🐛 7 | 📅 2026-05-03 - Useful resources for creating apps with Electron.
 * [Structured Text Tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,145 | 🐛 6 | 📅 2026-08-12 - The following is a list of text-based file formats and command line tools for manipulating each.

@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative cheatsheets for console commands 📚.",
+            "homepage": "https://tldr.sh",
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-28T15:21:01Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:31:57Z",
+            "open_issues": 301,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63513
+            "stars": 63515,
+            "topics": [
+              "android",
+              "bsd",
+              "cheatsheet",
+              "cheatsheets",
+              "cli",
+              "command-line",
+              "console",
+              "documentation",
+              "examples",
+              "hacktoberfest",
+              "help",
+              "linux",
+              "macos",
+              "man-page",
+              "manual",
+              "osx",
+              "shell",
+              "terminal",
+              "tldr",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -26,12 +52,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Getting started with Dendron",
+            "homepage": "https://wiki.dendron.so",
             "id": 280227555,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-26T03:30:17Z",
+            "open_issues": 35,
             "owner": "dendronhq",
             "repo": "dendron-site",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "dendron",
+              "markdown",
+              "note-taking",
+              "notes",
+              "pkm",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -42,12 +80,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Note Templates for Dendron",
+            "homepage": null,
             "id": 384384280,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2022-05-26T14:03:30Z",
+            "open_issues": 2,
             "owner": "dendronhq",
             "repo": "templates",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -58,12 +101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 368305552,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-06-13T19:16:54Z",
+            "open_issues": 1,
             "owner": "dendronhq",
             "repo": "schema-library",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -74,12 +122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 298861380,
             "language": "Witcher Script",
+            "license": "CC-BY-4.0",
             "last_commit": "2022-03-18T01:40:09Z",
+            "open_issues": 0,
             "owner": "dendronhq",
             "repo": "catalogue-open-pkm",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -90,12 +143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 417318952,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-06-17T18:31:02Z",
+            "open_issues": 3,
             "owner": "dendronhq",
             "repo": "dendron-docs",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -106,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 296177566,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-03-26T01:23:08Z",
+            "open_issues": 1,
             "owner": "dendronhq",
             "repo": "seeds.aws",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         }
@@ -128,12 +191,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of schema and template files",
+            "homepage": null,
             "id": 358958063,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-06-09T11:41:52Z",
+            "open_issues": 0,
             "owner": "Bassmann",
             "repo": "dendron-schemas",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "dendron",
+              "markdown",
+              "schema"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -144,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of highlights of things I've learned from reading, conferences, and courses as well as lists of resources to investigate",
+            "homepage": null,
             "id": 456017730,
             "language": "TypeScript",
+            "license": "CC0-1.0",
             "last_commit": "2023-03-07T06:33:03Z",
+            "open_issues": 17,
             "owner": "IntegerMan",
             "repo": "LearningLog",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         }
@@ -166,12 +243,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy way to create snippet in VS Code",
+            "homepage": null,
             "id": 80656098,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-09T12:05:38Z",
+            "open_issues": 10,
             "owner": "tariky",
             "repo": "easy-snippet-maker",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "javascript",
+              "snippets",
+              "visual-studio-code"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         }
@@ -190,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Path autocomplete for visual studio code.",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete",
                 "id": 67343900,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-02T09:01:03Z",
+                "open_issues": 11,
                 "owner": "mihai-vlc",
                 "repo": "path-autocomplete",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:29.325Z"
             }
@@ -217,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tool for making dendron work well with citing things using bibtex or Zotero",
+            "homepage": null,
             "id": 465031063,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-03-26T20:45:03Z",
+            "open_issues": 0,
             "owner": "mivanit",
             "repo": "dendron-citations",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -233,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "some utilities for helping dendron work better with pandoc",
+            "homepage": null,
             "id": 446322156,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-10T08:17:08Z",
+            "open_issues": 0,
             "owner": "mivanit",
             "repo": "dendron-pandoc",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -249,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Export Diagrams.net diagrams during Dendron site publishing",
+            "homepage": null,
             "id": 446151548,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-17T22:38:29Z",
+            "open_issues": 2,
             "owner": "LukeCarrier",
             "repo": "dendron-publish-drawio",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -265,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Give details of citation from local Zotero database",
+            "homepage": null,
             "id": 492413276,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2022-10-21T14:45:07Z",
+            "open_issues": 0,
             "owner": "Maarrk",
             "repo": "gibcite",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -283,12 +394,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yarle - The ultimate converter of Evernote notes to Markdown",
+                "homepage": "https://github.com/akosbalasko/yarle",
                 "id": 151837779,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-31T19:44:02Z",
+                "open_issues": 85,
                 "owner": "akosbalasko",
                 "repo": "yarle",
-                "stars": 1796
+                "stars": 1796,
+                "topics": [
+                  "converter",
+                  "desktop-application",
+                  "electron-app",
+                  "enex",
+                  "enex-files",
+                  "evernote",
+                  "evernote-enex",
+                  "evernote-export",
+                  "evernote-markup-language",
+                  "evernote-to-logseq",
+                  "logseq",
+                  "markdown",
+                  "markdown-converter",
+                  "metadata",
+                  "note-taking",
+                  "obsidian",
+                  "obsidian-md",
+                  "ultimate-converter",
+                  "zero-install",
+                  "zettelkasten"
+                ]
               },
               "first_seen": "2026-08-29T00:56:29.325Z"
             },
@@ -299,12 +436,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ConsoleApp to export OneNote notebooks to Markdown formats",
+                "homepage": null,
                 "id": 330787213,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-15T21:16:40Z",
+                "open_issues": 25,
                 "owner": "alxnbl",
                 "repo": "onenote-md-exporter",
-                "stars": 1622
+                "stars": 1622,
+                "topics": [
+                  "evernote",
+                  "joplin",
+                  "markdown",
+                  "obsidian",
+                  "onenote",
+                  "pandoc"
+                ]
               },
               "first_seen": "2026-08-29T00:56:29.325Z"
             },
@@ -315,12 +464,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Export google keep notes to markdown",
+                "homepage": null,
                 "id": 81992323,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-28T23:52:06Z",
+                "open_issues": 6,
                 "owner": "vHanda",
                 "repo": "google-keep-exporter",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "google-keep",
+                  "markdown",
+                  "markdown-conversion"
+                ]
               },
               "first_seen": "2026-08-29T00:56:29.325Z"
             },
@@ -331,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://sspeiser.github.io/onenote-export",
                 "id": 317639160,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-05T12:28:34Z",
+                "open_issues": 7,
                 "owner": "sspeiser",
                 "repo": "onenote-export",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:29.325Z"
             },
@@ -347,12 +510,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helper to process imported Joplin notes in Dendron.",
+                "homepage": null,
                 "id": 449288212,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-01-18T14:06:42Z",
+                "open_issues": 0,
                 "owner": "chmac",
                 "repo": "joplin2dendron",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "dendron",
+                  "joplin"
+                ]
               },
               "first_seen": "2026-08-29T00:56:29.325Z"
             }
@@ -374,12 +545,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+            "homepage": null,
             "id": 138393139,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-11-19T14:00:38Z",
+            "open_issues": 170,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240897
+            "stars": 240939,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bsd",
+              "cheatsheets",
+              "devops",
+              "guidelines",
+              "hacking",
+              "hacks",
+              "howtos",
+              "linux",
+              "lists",
+              "manuals",
+              "one-liners",
+              "pentesters",
+              "resources",
+              "search-engines",
+              "security",
+              "security-researchers",
+              "sysops"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -390,12 +586,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+            "homepage": "https://node.cool",
             "id": 21737266,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-03T08:24:10Z",
+            "open_issues": 26,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66640
+            "stars": 66640,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "javascript",
+              "list",
+              "node",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -406,12 +614,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of cool features of Git and GitHub.",
+            "homepage": "http://git.io/sheet",
             "id": 18708860,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-15T20:15:56Z",
+            "open_issues": 48,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58769
+            "stars": 58774,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "git",
+              "github",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -427,24 +646,51 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of modern/faster/saner alternatives to common unix commands.",
+                "homepage": null,
                 "id": 328831244,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-10T19:48:56Z",
+                "open_issues": 69,
                 "owner": "ibraheemdev",
                 "repo": "modern-unix",
-                "stars": 33021
+                "stars": 33021,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "lists",
+                  "shell",
+                  "terminal",
+                  "tools",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-29T00:56:29.325Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+            "homepage": null,
             "id": 21552971,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
+            "open_issues": 185,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37524
+            "stars": 37526,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash",
+              "cli",
+              "fish",
+              "list",
+              "shell",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -455,12 +701,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 A curated list of delightful VS Code packages and resources.",
+            "homepage": "https://viatsko.github.io/awesome-vscode/",
             "id": 51270739,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-06-21T09:36:55Z",
+            "open_issues": 54,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 28983
+            "stars": 28982,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "visual-studio",
+              "visual-studio-code",
+              "visual-studio-code-extension",
+              "visual-studio-code-theme",
+              "visualstudio",
+              "vscode",
+              "vscode-extension",
+              "vscode-theme"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -471,12 +734,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome actions to use on GitHub",
+            "homepage": null,
             "id": 153500249,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
+            "open_issues": 278,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28169
+            "stars": 28169,
+            "topics": [
+              "actions",
+              "actions-list",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "curated-list",
+              "github",
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -487,12 +764,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]",
+            "homepage": null,
             "id": 34453060,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-03T11:29:47Z",
+            "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27266
+            "stars": 27266,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "electron",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -503,12 +790,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of command-line tools for manipulating structured text data",
+            "homepage": null,
             "id": 34684868,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-12T19:53:32Z",
+            "open_issues": 6,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7145
+            "stars": 7145,
+            "topics": [
+              "awk",
+              "cli",
+              "configuration-file",
+              "conversion",
+              "csv",
+              "delimited-files",
+              "html",
+              "ini",
+              "json",
+              "list",
+              "structured-text",
+              "text-files",
+              "toml",
+              "tsv",
+              "xml",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -519,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
+            "homepage": null,
             "id": 36996520,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-02-11T04:21:43Z",
+            "open_issues": 3,
             "owner": "dzharii",
             "repo": "awesome-typescript",
-            "stars": 5118
+            "stars": 5118,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -535,12 +849,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs",
+            "homepage": null,
             "id": 263146261,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-22T02:48:25Z",
+            "open_issues": 29,
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4788
+            "stars": 4788,
+            "topics": [
+              "digital-garden",
+              "digital-gardening",
+              "second-brain",
+              "wiki",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -551,12 +876,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome Git tools, resources and shiny things",
+            "homepage": null,
             "id": 41074904,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-07T07:00:27Z",
+            "open_issues": 70,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2936
+            "stars": 2936,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "git"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         },
@@ -567,12 +902,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱",
+            "homepage": null,
             "id": 268514289,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-30T08:41:06Z",
+            "open_issues": 1,
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1834
+            "stars": 1834,
+            "topics": [
+              "digital-garden",
+              "second-brain",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
         }
@@ -581,15 +925,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:56:29.325Z",
+    "last_updated": "2026-08-29T04:49:01.331Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.",
+      "homepage": null,
       "id": 452872361,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-10-22T13:58:25Z",
+      "open_issues": 3,
       "owner": "dendronhq",
       "repo": "awesome-dendron",
-      "stars": 245
+      "stars": 245,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dendron",
+        "markdown",
+        "note-taking",
+        "notes",
+        "pkm",
+        "vscode"
+      ]
     },
     "original_repository_sha": "3bea961838ed3f5913504a75eb6c42f82bbb34b1",
     "enhanced_repository": "enhansome/enhansome-dendron",
