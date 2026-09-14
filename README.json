@@ -15,11 +15,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T16:32:05Z",
-            "open_issues": 276,
+            "last_commit": "2026-09-14T20:04:55Z",
+            "open_issues": 275,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63696,
+            "stars": 63705,
             "topics": [
               "android",
               "bsd",
@@ -445,7 +445,7 @@
                 "open_issues": 25,
                 "owner": "alxnbl",
                 "repo": "onenote-md-exporter",
-                "stars": 1631,
+                "stars": 1633,
                 "topics": [
                   "evernote",
                   "joplin",
@@ -554,7 +554,7 @@
             "open_issues": 170,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 243537,
+            "stars": 243748,
             "topics": [
               "awesome",
               "awesome-list",
@@ -595,7 +595,7 @@
             "open_issues": 25,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 66799,
+            "stars": 66803,
             "topics": [
               "awesome",
               "awesome-list",
@@ -623,7 +623,7 @@
             "open_issues": 48,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59027,
+            "stars": 59053,
             "topics": [
               "awesome",
               "awesome-list",
@@ -680,7 +680,7 @@
             "open_issues": 186,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37611,
+            "stars": 37620,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 59,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29026,
+            "stars": 29033,
             "topics": [
               "awesome",
               "awesome-list",
@@ -740,10 +740,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
-            "open_issues": 305,
+            "open_issues": 307,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28216,
+            "stars": 28220,
             "topics": [
               "actions",
               "actions-list",
@@ -773,7 +773,7 @@
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27278,
+            "stars": 27279,
             "topics": [
               "awesome",
               "awesome-list",
@@ -799,7 +799,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7144,
+            "stars": 7145,
             "topics": [
               "awk",
               "cli",
@@ -885,7 +885,7 @@
             "open_issues": 80,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2943,
+            "stars": 2944,
             "topics": [
               "awesome",
               "awesome-list",
@@ -911,7 +911,7 @@
             "open_issues": 2,
             "owner": "KasperZutterman",
             "repo": "Second-Brain",
-            "stars": 1839,
+            "stars": 1841,
             "topics": [
               "digital-garden",
               "second-brain",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:18:19.917Z",
+    "last_updated": "2026-09-14T20:52:04.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.",
