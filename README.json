@@ -15,11 +15,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T20:17:26Z",
-            "open_issues": 312,
+            "last_commit": "2026-10-24T17:52:24Z",
+            "open_issues": 307,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 64023,
+            "stars": 64024,
             "topics": [
               "android",
               "bsd",
@@ -554,7 +554,7 @@
             "open_issues": 174,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 252655,
+            "stars": 252905,
             "topics": [
               "awesome",
               "awesome-list",
@@ -595,7 +595,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67229,
+            "stars": 67245,
             "topics": [
               "awesome",
               "awesome-list",
@@ -623,7 +623,7 @@
             "open_issues": 50,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59877,
+            "stars": 59909,
             "topics": [
               "awesome",
               "awesome-list",
@@ -655,7 +655,7 @@
                 "open_issues": 70,
                 "owner": "ibraheemdev",
                 "repo": "modern-unix",
-                "stars": 33020,
+                "stars": 33018,
                 "topics": [
                   "cli",
                   "command-line",
@@ -680,7 +680,7 @@
             "open_issues": 192,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37829,
+            "stars": 37834,
             "topics": [
               "awesome",
               "awesome-list",
@@ -710,7 +710,7 @@
             "open_issues": 84,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29151,
+            "stars": 29160,
             "topics": [
               "awesome",
               "awesome-list",
@@ -740,10 +740,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
-            "open_issues": 334,
+            "open_issues": 348,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28347,
+            "stars": 28352,
             "topics": [
               "actions",
               "actions-list",
@@ -773,7 +773,7 @@
             "open_issues": 7,
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27328,
+            "stars": 27334,
             "topics": [
               "awesome",
               "awesome-list",
@@ -799,7 +799,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7149,
+            "stars": 7150,
             "topics": [
               "awk",
               "cli",
@@ -837,7 +837,7 @@
             "open_issues": 3,
             "owner": "dzharii",
             "repo": "awesome-typescript",
-            "stars": 5112,
+            "stars": 5113,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:29.325Z"
@@ -858,7 +858,7 @@
             "open_issues": 32,
             "owner": "MaggieAppleton",
             "repo": "digital-gardeners",
-            "stars": 4834,
+            "stars": 4835,
             "topics": [
               "digital-garden",
               "digital-gardening",
@@ -882,10 +882,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-23T08:16:08Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "dictcp",
             "repo": "awesome-git",
-            "stars": 2960,
+            "stars": 2959,
             "topics": [
               "awesome",
               "awesome-list",
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:17:39.459Z",
+    "last_updated": "2026-10-24T19:23:17.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.",
