@@ -62,7 +62,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Official public vaults by Dendron. Feel free to use and contribute to them!
 
-* [TLDR](https://tldr.dendron.so/) - A Dendron vault of the [tldr-pages project](https://tldr.sh/): a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages ([Upstream Source](https://github.com/tldr-pages/tldr) ⭐ 64,246 | 🐛 293 | 🌐 Markdown | 📅 2026-11-18 | [Dendron Vault Source](https://github.com/kevinslin/seed-tldr) ⭐ 7 | 🐛 2 | 🌐 CoffeeScript | 📅 2024-12-19).
+* [TLDR](https://tldr.dendron.so/) - A Dendron vault of the [tldr-pages project](https://tldr.sh/): a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages ([Upstream Source](https://github.com/tldr-pages/tldr) ⭐ 64,258 | 🐛 314 | 🌐 Markdown | 📅 2026-11-19 | [Dendron Vault Source](https://github.com/kevinslin/seed-tldr) ⭐ 7 | 🐛 2 | 🌐 CoffeeScript | 📅 2024-12-19).
 * [Dendron Documentation](https://wiki.dendron.so/) - Official user documentation for Dendron ([Source](https://github.com/dendronhq/dendron-site) ⭐ 132 | 🐛 35 | 🌐 JavaScript | 📅 2024-05-26).
 * [Dendron Templates](https://github.com/dendronhq/templates/) ⭐ 36 | 🐛 2 | 📅 2022-05-26 - Note templates for Dendron.
 * [Dendron Schema Library](https://github.com/dendronhq/schema-library) ⭐ 21 | 🐛 1 | 📅 2022-06-13 - This workspace contains commonly used schemas for Dendron.
@@ -132,7 +132,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Extensions related to `git` workflows and navigation.
 
-* [Path AutoComplete](https://github.com/ionutvmi/path-autocomplete) ⭐ 169 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-03 - Path autocomplete for Visual Studio Code.
+* [Path AutoComplete](https://github.com/ionutvmi/path-autocomplete) ⭐ 170 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-03 - Path autocomplete for Visual Studio Code.
 * [Git Automator](https://marketplace.visualstudio.com/items?itemName=ivangabriele.vscode-git-add-and-commit) - One command to commit and push all changes.
 * [GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc) - Automatically commit/push/pull changes on save, so you can edit a Git repo like a multi-file, versioned document.
 * [Gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Repository/File/Line history and annotations of all your files.
@@ -182,7 +182,7 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 > Scripts, tools, and repos dedicated to migrating content from other platforms.
 
 * [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,817 | 🐛 94 | 🌐 TypeScript | 📅 2026-03-31 - Yarle is the ultimate converter of **Evernote** notes to Markdown.
-* [OneNote / Office 2016 Markdown Exporter](https://github.com/alxnbl/onenote-md-exporter) ⭐ 1,671 | 🐛 40 | 🌐 C# | 📅 2025-12-15 - OneNote Md Exporter is a console application running on Windows that exports your **OneNote 2016** notebooks in different markdown formats.
+* [OneNote / Office 2016 Markdown Exporter](https://github.com/alxnbl/onenote-md-exporter) ⭐ 1,672 | 🐛 40 | 🌐 C# | 📅 2025-12-15 - OneNote Md Exporter is a console application running on Windows that exports your **OneNote 2016** notebooks in different markdown formats.
 * [Google Keep Converter](https://github.com/vHanda/google-keep-exporter) ⚠️ Archived - Convert your **Google Keep** notes into a standard markdown + YAML header format.
 * [OneNote / Office 365 HTML Exporter](https://github.com/sspeiser/onenote-export) ⭐ 20 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-05 - This project exports your **OneNote notes from Microsoft Office 365 (O365)** to a zip file containing HTML files or a Evernote ENEX export file.
 * [`joplin2dendron`](https://github.com/chmac/joplin2dendron) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2022-01-18 - Helper script to copy the correct dates from **Joplin** files into Dendron when migrating.
@@ -208,18 +208,18 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 > Awesome lists and other collections of topics related to the Dendron stack, or otherwise of interest to dendronites. These may also be candidates for pulling into a future `awesome-list` Dendron vault.
 
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 259,520 | 🐛 181 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
-* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,552 | 🐛 25 | 📅 2026-09-02 - Delightful Node.js packages and resources.
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,476 | 🐛 50 | 📅 2024-04-15 - A collection of cool hidden and not so hidden features of Git and GitHub.
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,982 | 🐛 197 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 259,753 | 🐛 181 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,564 | 🐛 25 | 📅 2026-09-02 - Delightful Node.js packages and resources.
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,491 | 🐛 50 | 📅 2024-04-15 - A collection of cool hidden and not so hidden features of Git and GitHub.
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,985 | 🐛 197 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
   * [Modern Unix](https://github.com/ibraheemdev/modern-unix) ⭐ 33,033 | 🐛 70 | 📅 2024-09-10 - A collection of modern/faster/saner alternatives to common unix commands.
-* [Awesome VS Code](https://github.com/viatsko/awesome-vscode) ⭐ 29,249 | 🐛 94 | 🌐 JavaScript | 📅 2026-06-21 - A curated list of delightful Visual Studio Code packages and resources.
-* [Awesome GitHub Actions](https://github.com/sdras/awesome-actions) ⭐ 28,450 | 🐛 368 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
-* [Awesome Electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,362 | 🐛 10 | 📅 2026-05-03 - Useful resources for creating apps with Electron.
-* [Structured Text Tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,149 | 🐛 11 | 📅 2026-10-16 - The following is a list of text-based file formats and command line tools for manipulating each.
+* [Awesome VS Code](https://github.com/viatsko/awesome-vscode) ⭐ 29,248 | 🐛 91 | 🌐 JavaScript | 📅 2026-06-21 - A curated list of delightful Visual Studio Code packages and resources.
+* [Awesome GitHub Actions](https://github.com/sdras/awesome-actions) ⭐ 28,449 | 🐛 368 | 📅 2024-09-01 - A curated list of awesome things related to GitHub Actions.
+* [Awesome Electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,363 | 🐛 10 | 📅 2026-05-03 - Useful resources for creating apps with Electron.
+* [Structured Text Tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,148 | 🐛 11 | 📅 2026-10-16 - The following is a list of text-based file formats and command line tools for manipulating each.
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript) ⚠️ Archived - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript.
 * [Digital Gardeners](https://github.com/MaggieAppleton/digital-gardeners) ⭐ 4,879 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-22 - This collection of apps, tools and articles is here to help you learn more about digital gardening.
-* [Awesome git](https://github.com/dictcp/awesome-git) ⭐ 2,980 | 🐛 129 | 📅 2026-10-23 - A curated list of amazingly awesome Git tools, resources and shiny things.
+* [Awesome git](https://github.com/dictcp/awesome-git) ⭐ 2,982 | 🐛 130 | 📅 2026-10-23 - A curated list of amazingly awesome Git tools, resources and shiny things.
 * [Second Brain](https://github.com/KasperZutterman/Second-Brain) ⭐ 1,864 | 🐛 1 | 📅 2026-10-14 - A curated list of awesome Public Zettelkastens / Second Brains / Digital Gardens.
 
 ## Read
@@ -257,4 +257,4 @@ The big list of Dendron docs, talks, tools, examples, articles, extensions, vaul
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
