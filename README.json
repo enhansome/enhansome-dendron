@@ -15,11 +15,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T21:42:22Z",
-            "open_issues": 316,
+            "last_commit": "2026-11-27T20:33:13Z",
+            "open_issues": 305,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 64324,
+            "stars": 64329,
             "topics": [
               "android",
               "bsd",
@@ -551,10 +551,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2024-11-19T14:00:38Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 261629,
+            "stars": 261901,
             "topics": [
               "awesome",
               "awesome-list",
@@ -595,7 +595,7 @@
             "open_issues": 24,
             "owner": "sindresorhus",
             "repo": "awesome-nodejs",
-            "stars": 67644,
+            "stars": 67658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -623,7 +623,7 @@
             "open_issues": 50,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 60632,
+            "stars": 60646,
             "topics": [
               "awesome",
               "awesome-list",
@@ -655,7 +655,7 @@
                 "open_issues": 70,
                 "owner": "ibraheemdev",
                 "repo": "modern-unix",
-                "stars": 33037,
+                "stars": 33036,
                 "topics": [
                   "cli",
                   "command-line",
@@ -680,7 +680,7 @@
             "open_issues": 197,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 38031,
+            "stars": 38035,
             "topics": [
               "awesome",
               "awesome-list",
@@ -707,10 +707,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-06-21T09:36:55Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "viatsko",
             "repo": "awesome-vscode",
-            "stars": 29274,
+            "stars": 29278,
             "topics": [
               "awesome",
               "awesome-list",
@@ -740,10 +740,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-09-01T20:32:39Z",
-            "open_issues": 380,
+            "open_issues": 381,
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28468,
+            "stars": 28470,
             "topics": [
               "actions",
               "actions-list",
@@ -773,7 +773,7 @@
             "open_issues": 10,
             "owner": "sindresorhus",
             "repo": "awesome-electron",
-            "stars": 27371,
+            "stars": 27374,
             "topics": [
               "awesome",
               "awesome-list",
@@ -882,7 +882,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-23T08:16:08Z",
-            "open_issues": 132,
+            "open_issues": 133,
             "owner": "dictcp",
             "repo": "awesome-git",
             "stars": 2984,
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:58:49.659Z",
+    "last_updated": "2026-11-28T00:26:41.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.",
